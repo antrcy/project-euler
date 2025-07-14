@@ -26,4 +26,4 @@ def nth_lexico_perm(k, tab):
 
 answer=nth_lexico_perm(999_999, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 answer=sum(answer[9-i]*(10**i) for i in range(10))
-print(f"Problème 24 : {answer}")
+#print(f"Problème 24 : {answer}")

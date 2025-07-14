@@ -1,7 +1,7 @@
 
 ## Projet Euler - Solutions personnelles
 
-Compilations de mes solutions aux premiers problèmes du [Projet Euler](https://projecteuler.net/about)
+Compilations de mes solutions aux premiers problèmes du [Projet Euler](https://projecteuler.net/about). Repo alimenté au fur et à mesure.
 
 ### Progrès actuels :
 
@@ -23,3 +23,5 @@ python3 XX-nom-du-problème.py
 ```
 
 Seul l'import `math` est utilisé.
+
+Je ne prétends pas proposer des solutions particulièrement innovantes ou encore robustes. Mon but est simplement de partager un projet qui me passionne et d'initier la conversation avec d'autres enthousiastes des mathématiques.

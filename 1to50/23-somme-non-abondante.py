@@ -35,4 +35,4 @@ for i in range(len(coeff)):
             break
 
 answer=sum(i for i, v in enumerate(check) if not v)
-print(f"Problème 23 : {answer}")
+#print(f"Problème 23 : {answer}")
