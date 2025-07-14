@@ -8,15 +8,12 @@ scores = data.copy()
 
 n = len(scores)
 
-def max2(x, y):
-    return x*(x>y)+y*(y>=x)
-
 for j in range(1, n):
     for k in range(n - j):
         l0 = scores[n-j-1]
         lm1 = scores[n-j]
 
-        l0[k]+=max2(lm1[k], lm1[k+1])
+        l0[k]+=max(lm1[k], lm1[k+1])
 
 answer = scores[0][0]
 #print(f"Problème 18 : {answer}")
