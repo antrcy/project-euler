@@ -5,7 +5,7 @@ Compilations de mes solutions aux premiers problèmes du [Projet Euler](https://
 
 ### Progrès actuels :
 
-- Problèmes résolus : **1 à 21**
+- Problèmes résolus : **1 à 26**
 - Language utilisé : **Python 3**
 
 ### Structure :
