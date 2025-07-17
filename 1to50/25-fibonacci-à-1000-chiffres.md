@@ -9,4 +9,4 @@ $$
 \end{cases}
 $$
 
-_Le douxième terme, $F_{12}=144$ est le premier le premier terme à $3$ chiffres de la suite. Déterminer le premier terme à $1000$ chiffres._
+_Le douxième terme, $F_{12}=144$ est le premier terme à $3$ chiffres de la suite. Déterminer le premier terme à $1000$ chiffres._
