@@ -13,4 +13,4 @@ while count_digits_fast(Fn)<1000:
     Fnm1, Fnm2 = Fn, Fnm1
     Fn = Fnm1+Fnm2
 
-print(f"Problème 25 : {answer}")
+#print(f"Problème 25 : {answer}")

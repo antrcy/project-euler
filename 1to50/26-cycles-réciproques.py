@@ -18,4 +18,4 @@ for k in range(2, 1_001):
         res=k
 
 answer=max_len
-print(f"Problème 26 : {answer}")
+#print(f"Problème 26 : {answer}")
