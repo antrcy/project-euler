@@ -1,6 +1,4 @@
 
-## Projet Euler - Solutions personnelles
-
 Compilations de mes solutions aux premiers problèmes du [Projet Euler](https://projecteuler.net/about). Repo alimenté au fur et à mesure.
 
 ### Progrès actuels :
